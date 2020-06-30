@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[https://bit.ly/3evn0ln](www.youtube.com/URL)
+[Placeholder link] (https://bit.ly/3evn0ln)
 
 ### Related products <Other books you may enjoy>
 * Mastering Computer Vision with TensorFlow 2.x [[Packt]](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069) [[Amazon]](https://www.amazon.com/dp/1838827064)
