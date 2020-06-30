@@ -4,12 +4,12 @@
 
 This is the code repository for [Raspberry Pi Computer Vision Programming - Second Edition](https://www.packtpub.com/in/data/raspberry-pi-computer-vision-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781800207219), published by Packt.
 
-**Design and implement computer vision applications with Raspberry Pi, OpenCV, and Python 3	**
+**Design and implement computer vision applications with Raspberry Pi, OpenCV, and Python 3**
 
 ## What is this book about?
 Raspberry Pi is one of the popular single-board computers of our generation. All the major image processing and computer vision algorithms and operations can be implemented easily with OpenCV on Raspberry Pi. This updated second edition is packed with cutting-edge examples and new topics, and covers the latest versions of key technologies such as Python 3, Raspberry Pi, and OpenCV. This book will equip you with the skills required to successfully design and implement your own OpenCV, Raspberry Pi, and Python-based computer vision projects.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Set up a Raspberry Pi for computer vision applications
 * Perform basic image processing with libraries such as NumPy, Matplotlib, and OpenCV
 * Demonstrate arithmetic, logical, and other operations on images
@@ -21,7 +21,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders.
 
 The code will look like the following:
 ```
@@ -46,11 +46,11 @@ With the following software and hardware list you can run all code files present
 | Software required                   | OS required                        |
 | ------------------------------------| -----------------------------------|
 | Raspberry Pi with Raspbian OS (Raspberry Pi camera module and a USB webcam)                | Windows, Mac OS X  |
-| Python 3 interpreter          | Windows, Mac OS X, and Linux (Any) |
+| Python 3 interpreter          | Windows, Mac OS X |
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it] (https://static.packt-cdn.com/
 downloads/9781800207219_ColorImages.pdf).
 
 ## Code in Action
@@ -65,7 +65,7 @@ Click on the following link to see the Code in Action:
 * PyTorch Computer Vision Cookbook [[Packt]](https://www.packtpub.com/in/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833) [[Amazon]](https://www.amazon.com/dp/1838644830)
 
 ## Get to Know the Author
-**Ashwin Pajankar**https://www.packtpub.com/in/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833
+**Ashwin Pajankar**
 is a polymath. He is a science popularizer, a programmer, a maker, an
 author, and a YouTuber. He graduated from IIIT Hyderabad with an MTech in computer
 science and engineering. He has a keen interest in the promotion of science, technology,
