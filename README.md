@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-https://bit.ly/3evn0ln
+https://www.youtube.com/playlist?list=PLeLcvrwLe187nS94zlJC9u9QHBz_Hr3pO
 
 ### Related products <Other books you may enjoy>
 * Mastering Computer Vision with TensorFlow 2.x [[Packt]](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069) [[Amazon]](https://www.amazon.com/dp/1838827064)
@@ -68,7 +68,7 @@ https://bit.ly/3evn0ln
 is a polymath. He is a science popularizer, a programmer, a maker, an
 author, and a YouTuber. He graduated from IIIT Hyderabad with an MTech in computer
 science and engineering. He has a keen interest in the promotion of science, technology,
-engineering, and mathematics (STEM) education.Bio
+engineering, and mathematics (STEM) education.
 
 
 ## Other book by the author
