@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800207219)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Raspberry Pi Computer Vision Programming - Second Edition
 
 <a href="https://www.packtpub.com/in/data/raspberry-pi-computer-vision-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781800207219"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781800207219-original_42.jpeg" alt="Raspberry Pi Computer Vision Programming - Second Edition" height="256px" align="right"></a>
